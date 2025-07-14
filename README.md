@@ -9,7 +9,7 @@
 
 👨‍💻 .NET Developer | Developer at CFO Tech | Clean Architecture Enthusiast
 
-I'm a backend developer focused on C# and ASP.NET, currently working at CFO Tech.
+I'm a backend developer focused on C# and ASP.NET, working at CFO Tech.
 Some of my related skills are:
 
 - Entity Framework (Database First & Code First) 

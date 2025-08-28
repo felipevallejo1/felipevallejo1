@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-👨‍💻 .NET Developer | Developer at CFO Tech | Clean Architecture Enthusiast
+👨‍💻 .NET Developer | Clean Architecture Enthusiast
 
-I'm a backend developer focused on C# and ASP.NET, working at CFO Tech.
+I'm a backend developer focused on C# and ASP.NET.
 Some of my related skills are:
 
 - Entity Framework (Database First & Code First) 

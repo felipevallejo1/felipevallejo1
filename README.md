@@ -16,6 +16,8 @@ Some of my related skills are:
 - Relational databases (SQL Server, SQLite)
 - API building
 
+Currently working on Python, learning...
+
 Besides working, I also work on personal projects so feel free to share any code reviews! 
 ### 🛠️ Tech Stack
 
